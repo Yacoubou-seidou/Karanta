@@ -1,0 +1,11 @@
+.bg-picture {
+  background: url(img.jpg) center/cover fixed no-repeat;
+}
+.card-pass:hover {
+  background-color: lightskyblue;
+  color: white;
+}
+
+ul {
+  cursor: pointer;
+}
